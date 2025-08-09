@@ -40,7 +40,7 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/HellFir
 ›› Main Channel: <a href='https://t.me/HellFire_Academy>Click Here</a>
 ›› Adult: <a href='https://t.me/Adult_Flux>Adult_Flux</a>
 
-CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/HellFire_Academy'>𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>
+CHANNELS_TXT = "\u203A\u203A ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/HellFire_Academy'>𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>"
 <blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/Hellfire_Movies'>ᴍᴏᴠɪᴇ sᴘᴏᴛ</a>
 ›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/HellFire_Movies'>ᴡᴇʙsᴇʀɪᴇs</a>
 ›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/Adult_Flux'>ᴄᴏʀɴʜᴜʙ</a>
