@@ -37,13 +37,12 @@ ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is d
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
 <blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Urr_Sanjiii>𝐒ᴀɴJɪ 𝐒αᴍᴀ</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/HellFire_Academy>𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>\n» ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Ongoing_HellFire_Academy>𝐎ɴɢᴏɪɴɢ 𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/HellFire_Academy_Chat>𝐇ᴇʟʟғɪʀᴇ 𝐆ᴄ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/Urr_Sanjiii>𝐒ᴀɴJɪ 𝐒αᴍᴀ</a></blockquote></b>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
-CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/animes_cruise'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/movieflixspot'>ᴍᴏᴠɪᴇғʟɪx sᴘᴏᴛ</a>
-›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/webseries_flix'>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>
-›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/hanime_arena'>ᴄᴏʀɴʜᴜʙ</a>
-›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/pornhwa_flix'>ᴘᴏʀɴʜᴡᴀ</a>
-›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/otakuflix_network'>ᴏᴛᴀᴋᴜғʟɪx</a>
-›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ProYato</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
+CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/HellFire_Academy'>𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>
+<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/HellFire_Movies'>ᴍᴏᴠɪᴇ sᴘᴏᴛ</a>
+›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/HellFire_Movies'>ᴡᴇʙsᴇʀɪᴇs</a>
+›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/Adult_Flux'>ᴄᴏʀɴʜᴜʙ</a>
+›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/Adult_Flux'>ᴘᴏʀɴʜᴡᴀ</a>
+›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/HellFire_network'>ᴏᴛᴀᴋᴜғʟɪx</a>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 # Default
