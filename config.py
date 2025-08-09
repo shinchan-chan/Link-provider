@@ -34,10 +34,8 @@ START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛ�
 HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Owner: <a href=https://t.me/DoraShin_hlo>Gojo</a>\n» Our Community: <a href=https://t.me/HellFire_Academy>HellFire Academy</a>\n» Ongoing Anime Channel: <a href=https://t.me/Ongoing_HellFire_Academy>Ongoing HellFire Academy</a></b>")
 ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is developed for link provide to securely share Telegram channel links with temporary invite links, protecting your channels from copyright issues.</b>")
 
-ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ:</b> <a href='https://t.me/HellFire_Academy'>𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>
-<blockquote expandable>›› ᴍᴏᴠɪᴇs:</blockquote> <a href='https://t.me/Hellfire_Movies'>ᴍᴏᴠɪᴇ sᴘᴏᴛ</a>
-<b>›› Adult:</b> <a href='https://t.me/Adult_Flux'>Adult Flux</a>
-"""
+ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
+<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Urr_Sanjiii>𝐒ᴀɴJɪ 𝐒αᴍᴀ</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/HellFire_Academy>𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>\n» ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Ongoing_HellFire_Academy>𝐎ɴɢᴏɪɴɢ 𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/HellFire_Academy_Chat>𝐇ᴇʟʟғɪʀᴇ 𝐆ᴄ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/DoraShin_hlo>𝐒ᴀɴJɪ 𝐒αᴍᴀ</a></blockquote></b>"""
 CHANNELS_TXT = "\u203A\u203A ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/HellFire_Academy'>𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>"
 <blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/Hellfire_Movies'>ᴍᴏᴠɪᴇ sᴘᴏᴛ</a>
 ›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/HellFire_Movies'>ᴡᴇʙsᴇʀɪᴇs</a>
