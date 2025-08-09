@@ -27,8 +27,8 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "40"))
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 
 # Start pic
-START_PIC_FILE_ID = "https://telegra.ph/file/f3d3aff9ec422158feb05-d2180e3665e0ac4d32.jpg"
-START_IMG = "https://telegra.ph/file/f3d3aff9ec422158feb05-d2180e3665e0ac4d32.jpg"
+START_PIC_FILE_ID = "https://ibb.co/cKddjnPq"
+START_IMG = "https://ibb.co/VpYGMZgT"
 # Messages
 START_MSG = """<b>›› ʜᴇʏ!!, {mention} ~\n\n<blockquote expandable>ʟᴏᴠᴇ ᴛᴏ ᴡᴀᴛᴄʜ ᴀɴɪᴍᴇ sᴇʀɪᴇs ᴀɴᴅ ᴍᴏᴠɪᴇs? ɪ ᴀᴍ ᴍᴀᴅᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ғɪɴᴅ ᴡʜᴀᴛ ʏᴏᴜ'ʀᴇ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ.</blockquote></b>"""
 HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/DoraShin_hlo>Gojo</a>\n» Our Community: <a href=https://t.me/HellFire_Network>HellFire Network</a>\n» Anime Channel: <a href=https://t.me/HellFire_Academy>HellFire_Academy</a>\n» Ongoing Anime: <a href=https://t.me/Ongoing_HellFire_Academy>Ongoing HellFire</a>\n» Adult: <a href=https://t.me/Adult_Flux>Adult Flux</a></b>")
